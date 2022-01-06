@@ -15,6 +15,7 @@ Made By [AYTROX](https://aytrox.com/?=readme-Generateur-profile-athena)
   <li><a href="#intro">Intro</a></li>
   <li><a href="#install">Install</a></li>
   <li><a href="#options">Options</a></li>
+  <li><a href="#licence">Licence</a></li>
 </ol>
 
 
@@ -45,3 +46,7 @@ Vous pouvez modifier le lien du site de Génération...<br>
     "website": "https://aytrox.com"
 }
 ```
+
+## Licence
+
+Ce projet est licencié par [Apache License 2.0](https://github.com/AYTROX-OFFICIEL/Generateur-profile-athena/blob/main/LICENSE)
