@@ -1,0 +1,9 @@
+{
+    "host": "localhost",
+    "directory": "__dirname",
+    "dir": "__dirname",
+    "liendefault": "https://fortnite-api.com/v2/cosmetics/br/",
+    "version": "1.0.0",
+    "author": "AYTROX",
+    "website": "https://aytrox.com"
+}
