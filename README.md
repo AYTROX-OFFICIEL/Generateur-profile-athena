@@ -4,7 +4,7 @@ Made By [AYTROX](https://aytrox.com/?=readme-Generateur-profile-athena)
 
 ## Home
 
-<p align="center">Generateur profile-athena V1.0.0<p><br>
+<p align="center">Generateur profile-athena V1.0.1<p><br>
   <p align="center">(Fortnite profile-athena generator for private servers)<p>
     <p align="center">(Générateur de profile-athena Fortnite pour les serveurs privés)<p>
       
@@ -33,15 +33,27 @@ Made By [AYTROX](https://aytrox.com/?=readme-Generateur-profile-athena)
 
 ## Options
 
+Vous pouvez mofifier l'option de génération dans le fichier ``index.js`` vous devez aller en bas de la page est modifier optionone() par optiontwo()
+```js
+// optionone() sert à générer tout les Cosmetics
+optionone()
+// remplacer par
+optiontwo()
+// optiontwo() sert à générer seulement les nouveau Cosmetics
+
+```
+<br>
 Vous pouvez modifier le lien du site de Génération...<br>
 (You can modify the link of the Generation site...)
+
 ```json
 {
     "host": "localhost",
     "directory": "__dirname",
     "dir": "__dirname",
     "liendefault": ``"https://fortnite-api.com/v2/cosmetics/br/"``,
-    "version": "1.0.0",
+    "liensecond": ``"https://fortnite-api.com/v2/cosmetics/br/new"``,
+    "version": "1.0.1",
     "author": "AYTROX",
     "website": "https://aytrox.com"
 }
