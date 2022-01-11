@@ -15,6 +15,7 @@ Made By [AYTROX](https://aytrox.com/?=readme-Generateur-profile-athena)
   <li><a href="#intro">Intro</a></li>
   <li><a href="#install">Install</a></li>
   <li><a href="#options">Options</a></li>
+  <li><a href="#credits">Credits</a></li>
   <li><a href="#licence">Licence</a></li>
 </ol>
 
@@ -27,6 +28,7 @@ Made By [AYTROX](https://aytrox.com/?=readme-Generateur-profile-athena)
 
 ## Install
 
+- installer la version 16.13.2 de **[NodeJs](https://nodejs.org/dist/v16.13.2/node-v16.13.2-x64.msi)**
 - Extraire le fichier `Generateur-profile-athena-main.zip`
 - Ouvrir `install.bat` attendre la fin de l'installation.
 - Lancer le fichier `run.exe`
@@ -58,6 +60,25 @@ Vous pouvez modifier le lien du site de Génération...<br>
     "website": "https://aytrox.com"
 }
 ```
+
+## Credits
+
+Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript) :**
+        <br/>
+	</br>
+	<img src="https://i.imgur.com/cbpCqLw.png" width="70" height="70" title="Javascript">
+	<br/>
+	</br>
+	<br>
+	• **[Node.Js](https://nodejs.org/fr/about/) :**<br/>
+	<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="110" height="110" title="Node.JS"><br>
+  <br>
+  application utilisé: 
+  
+  • **[Visual Studio Code](https://code.visualstudio.com/)** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="30" title="Visual Studio Code"> Créer par [Microsoft](https://github.com/microsoft)<br>
+  <br>
+  • **[Fortnite-api](https://fortnite-api.com/)** <img src="https://fortnite-api.com/assets/img/logo_transparent.png?v=2021_7" width="60" title="Fortnite-api"> Créer par [Officer](https://github.com/NotOfficer)
+
 
 ## Licence
 
