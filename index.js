@@ -1,17 +1,33 @@
-// Made By AYTROX V1.0.1
+// Made By AYTROX V1.0.2
 
 const bodyParser = require('body-parser');
 const express = require('express');
 const package = require('./package.json')
 const fs = require('fs');
+const version = require('./config.json').version;
 const config = require('./config.json');
 const axios = require('axios');
 const consoleoutput = require('./structs/consoleoutput');
+const versionCompare = require('compare-versions');
 
 console.info(`\n\n    Generateur by \x1b[34m${package.author}\x1b[0m \x1b[35mV ${config.version}\x1b[0m\n`)
 
+axios.get('https://raw.githubusercontent.com/AYTROX-OFFICIEL/Generateur-profile-athena/main/package.json', { validateStatus: undefined }).then((response) => {
+	if (response.status == 200) {
+		var compare = versionCompare(response.data.version, version);
 
-function optionone() {
+		if (compare > 0) {
+			console.log('\n')
+			consoleoutput.warn(`UNE NOUVELLE MISE À JOUR EST DISPONIBLE!!!.\nVERSION ${response.data.version} EST MAINTENANT DISPONIBLE\nVOUS AVEZ ACTUELLEMENT LA VERSION ${version}`, false)
+		}
+	}
+});
+
+/* dans le fichier config.json aller dans la catégorie "option" entrer soit "1" ou "2" (1 signifie tout les cosmetics et 2 seulment les nouveaux)
+  (pour plus d'info: https://github.com/AYTROX-OFFICIEL/Generateur-profile-athena#options)
+*/
+
+if (config.option == 1) {
     class backend {
     
         get directory() {
@@ -111,7 +127,7 @@ function optionone() {
 
 
 
-function optiontwo() {
+if (config.option == 2) {
     consoleoutput.log(`\x1b[33mVeuillez attendre le chargement du lien...\x1b[0m`);
     class backend {
     
@@ -205,5 +221,3 @@ function optiontwo() {
     backendClass = new backend();
     backendClass.init();
 };
-
-optionone()

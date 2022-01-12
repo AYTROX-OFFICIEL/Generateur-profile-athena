@@ -4,7 +4,8 @@
     "dir": "__dirname",
     "liendefault": "https://fortnite-api.com/v2/cosmetics/br",
     "liensecond": "https://fortnite-api.com/v2/cosmetics/br/new",
-    "version": "1.0.1",
+    "option": "1",
+    "version": "1.0.2",
     "author": "AYTROX",
     "website": "https://aytrox.com"
 }

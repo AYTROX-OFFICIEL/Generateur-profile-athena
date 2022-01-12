@@ -2,9 +2,11 @@
 
 Made By [AYTROX](https://aytrox.com/?=readme-Generateur-profile-athena)
 
+Traduit avec Google traduction (Translated with Google translate)
+
 ## Home
 
-<p align="center">Generateur profile-athena V1.0.1<p><br>
+<p align="center">Generateur profile-athena V1.0.2<p><br>
   <p align="center">(Fortnite profile-athena generator for private servers)<p>
     <p align="center">(Générateur de profile-athena Fortnite pour les serveurs privés)<p>
       
@@ -28,21 +30,21 @@ Made By [AYTROX](https://aytrox.com/?=readme-Generateur-profile-athena)
 
 ## Install
 
-- installer la version 16.13.2 de **[NodeJs](https://nodejs.org/dist/v16.13.2/node-v16.13.2-x64.msi)**
+- installer la version 17.3.1 de **[NodeJs x64](https://nodejs.org/dist/v17.3.1/node-v17.3.1-x64.msi)** où(Where) **[NodeJs x86](https://nodejs.org/dist/v17.3.1/node-v17.3.1-x86.msi)**
 - Extraire le fichier `Generateur-profile-athena-main.zip`
 - Ouvrir `install.bat` attendre la fin de l'installation.
 - Lancer le fichier `run.exe`
 
 ## Options
 
-Vous pouvez mofifier l'option de génération dans le fichier ``index.js`` vous devez aller en bas de la page est modifier optionone() par optiontwo()
-```js
-// optionone() sert à générer tout les Cosmetics
-optionone()
-// remplacer par
-optiontwo()
-// optiontwo() sert à générer seulement les nouveau Cosmetics
-
+Vous pouvez modifier l'option de génération dans le fichier ``config.json`` vous devez aller dans la catégorie "option" est modifier 2 par 1
+(You can modify the generation option in the ``config.json`` file you must go to the "option" category is modify 2 by 1)
+```
+// 1 sert à générer tout les Cosmetics (is used to generate all Cosmetics)
+"option": "1",
+// remplacer par (replace with)
+"option": "2",
+// 2 sert à générer seulement les nouveau Cosmetics (is used to generate only new cosmetics)
 ```
 <br>
 Vous pouvez modifier le lien du site de Génération...<br>
@@ -53,9 +55,10 @@ Vous pouvez modifier le lien du site de Génération...<br>
     "host": "localhost",
     "directory": "__dirname",
     "dir": "__dirname",
-    "liendefault": ``"https://fortnite-api.com/v2/cosmetics/br/"``,
-    "liensecond": ``"https://fortnite-api.com/v2/cosmetics/br/new"``,
-    "version": "1.0.1",
+    "liendefault": **"https://fortnite-api.com/v2/cosmetics/br/"**,
+    "liensecond": **"https://fortnite-api.com/v2/cosmetics/br/new"**,
+    "option": "2",
+    "version": "1.0.2",
     "author": "AYTROX",
     "website": "https://aytrox.com"
 }
