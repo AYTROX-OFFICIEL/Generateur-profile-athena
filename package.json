@@ -1,6 +1,6 @@
 {
-  "name": "generateur-by-aytrox",
-  "version": "1.0.2",
+  "name": "generateur-profile-athena",
+  "version": "1.0.3",
   "description": "Generateur de Cosmetics pour AYTROX V4",
   "main": "index.js",
   "scripts": {

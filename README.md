@@ -6,7 +6,7 @@ Traduit avec Google traduction (Translated with Google translate)
 
 ## Home
 
-<p align="center">Generateur profile-athena V1.0.2<p><br>
+<p align="center">Generateur profile-athena V1.0.3<p><br>
   <p align="center">(Fortnite profile-athena generator for private servers)<p>
     <p align="center">(Générateur de profile-athena Fortnite pour les serveurs privés)<p>
       
@@ -57,7 +57,7 @@ Vous pouvez modifier le lien du site de Génération...<br>
     "dir": "__dirname",
     "liendefault": **"https://fortnite-api.com/v2/cosmetics/br/"**,
     "liensecond": **"https://fortnite-api.com/v2/cosmetics/br/new"**,
-    "option": "2",
+    "option": "1",
     "version": "1.0.2",
     "author": "AYTROX",
     "website": "https://aytrox.com"
@@ -85,4 +85,4 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 
 ## Licence
 
-Ce projet est licencié par [Apache License 2.0](https://github.com/AYTROX-OFFICIEL/Generateur-profile-athena/blob/main/LICENSE)
+Ce projet est licencié par [AYTROX LICENSE](https://github.com/AYTROX-OFFICIEL/Generateur-profile-athena/blob/main/LICENSE)

@@ -1,4 +1,4 @@
-// Made By AYTROX V1.0.2
+// Made By AYTROX V1.0.3
 
 const bodyParser = require('body-parser');
 const express = require('express');
@@ -6,11 +6,15 @@ const package = require('./package.json')
 const fs = require('fs');
 const version = require('./config.json').version;
 const config = require('./config.json');
+const option = require('./config.json').option;
 const axios = require('axios');
+const axiosPackage = require('axios/package.json');
 const consoleoutput = require('./structs/consoleoutput');
 const versionCompare = require('compare-versions');
 
-console.info(`\n\n    Generateur by \x1b[34m${package.author}\x1b[0m \x1b[35mV ${config.version}\x1b[0m\n`)
+console.info(`\n\n    Generateur by \x1b[34m${package.author}\x1b[0m \x1b[35mV ${version}\x1b[0m\n`)
+
+axios.defaults.headers["user-agent"] = `AYTROXServer/${version} axios/${axiosPackage.version}`;
 
 axios.get('https://raw.githubusercontent.com/AYTROX-OFFICIEL/Generateur-profile-athena/main/package.json', { validateStatus: undefined }).then((response) => {
 	if (response.status == 200) {
@@ -27,15 +31,13 @@ axios.get('https://raw.githubusercontent.com/AYTROX-OFFICIEL/Generateur-profile-
   (pour plus d'info: https://github.com/AYTROX-OFFICIEL/Generateur-profile-athena#options)
 */
 
-if (config.option == 1) {
+if (option == 1) {
     class backend {
-    
         get directory() {
             return `${__dirname}`;
         }
     
         constructor() {
-            this.config = require(`${this.directory}/config.json`);
             consoleoutput.log(`\x1b[33mVeuillez attendre le chargement du lien...\x1b[0m`);
             this.app = express();
         }
@@ -47,7 +49,7 @@ if (config.option == 1) {
         async updateAthena() {
             while (true) {
                 const req = await axios.get(
-                    config.liendefault ,
+                    config.liendefault,
                     consoleoutput.log(`Chargement du lien (\x1b[32m${config.liendefault}\x1b[0m) Finis!`),
                     consoleoutput.log('Ajout des Cosmetics dans le fichier...')
                 );
@@ -113,9 +115,6 @@ if (config.option == 1) {
             
             this.updateAthena();
             this.router();
-            this.app.listen(
-                this.config.port,
-            )
         }
     }
     backendClass = new backend();
@@ -125,9 +124,7 @@ if (config.option == 1) {
 
 
 
-
-
-if (config.option == 2) {
+if (option == 2) {
     consoleoutput.log(`\x1b[33mVeuillez attendre le chargement du lien...\x1b[0m`);
     class backend {
     
@@ -213,9 +210,6 @@ if (config.option == 2) {
             
             this.updateAthena();
             this.router();
-            this.app.listen(
-                this.config.port,
-            )
         }
     }
     backendClass = new backend();
