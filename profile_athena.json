@@ -17643,6 +17643,36 @@
       },
       "quantity": 1
     },
+    "AthenaBackpack:BID_944_Sleek_7PFGZ": {
+      "templateId": "AthenaBackpack:BID_944_Sleek_7PFGZ",
+      "attributes": {
+        "max_level_bonus": 99999,
+        "level": 9999,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 9999,
+        "variants": [],
+        "creation_time": "2022-02-03T20:18:59Z",
+        "favorite": false,
+        "name": "Sound Scepter"
+      },
+      "quantity": 1
+    },
+    "AthenaBackpack:BID_945_SleekGlasses_GKUD9": {
+      "templateId": "AthenaBackpack:BID_945_SleekGlasses_GKUD9",
+      "attributes": {
+        "max_level_bonus": 99999,
+        "level": 9999,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 9999,
+        "variants": [],
+        "creation_time": "2022-02-03T20:18:59Z",
+        "favorite": false,
+        "name": "Sonic Snare"
+      },
+      "quantity": 1
+    },
     "AthenaBackpack:BID_947_ZestFemale_1KIDJ": {
       "templateId": "AthenaBackpack:BID_947_ZestFemale_1KIDJ",
       "attributes": {
@@ -47416,6 +47446,58 @@
       },
       "quantity": 1
     },
+    "AthenaCharacter:CID_A_334_Athena_Commando_M_Sleek_U06KF": {
+      "templateId": "AthenaCharacter:CID_A_334_Athena_Commando_M_Sleek_U06KF",
+      "attributes": {
+        "max_level_bonus": 99999,
+        "level": 9999,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 9999,
+        "variants": [
+          {
+            "channel": "Parts",
+            "active": "Stage1",
+            "owned": [
+              "Stage1",
+              "Stage2",
+              "Stage3",
+              "Stage4"
+            ]
+          }
+        ],
+        "creation_time": "2022-02-03T20:18:59Z",
+        "favorite": false,
+        "name": "Bruno Mars"
+      },
+      "quantity": 1
+    },
+    "AthenaCharacter:CID_A_335_Athena_Commando_M_SleekGlasses_8SYX2": {
+      "templateId": "AthenaCharacter:CID_A_335_Athena_Commando_M_SleekGlasses_8SYX2",
+      "attributes": {
+        "max_level_bonus": 99999,
+        "level": 9999,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 9999,
+        "variants": [
+          {
+            "channel": "Parts",
+            "active": "Stage1",
+            "owned": [
+              "Stage1",
+              "Stage2",
+              "Stage3",
+              "Stage4"
+            ]
+          }
+        ],
+        "creation_time": "2022-02-03T20:18:59Z",
+        "favorite": false,
+        "name": "Anderson .Paak"
+      },
+      "quantity": 1
+    },
     "AthenaCharacter:CID_A_336_Athena_Commando_M_Zest_66JC5": {
       "templateId": "AthenaCharacter:CID_A_336_Athena_Commando_M_Zest_66JC5",
       "attributes": {
@@ -55892,6 +55974,21 @@
         "creation_time": "2021-02-21T00:00:37Z",
         "favorite": false,
         "name": "Shoryuken!"
+      },
+      "quantity": 1
+    },
+    "AthenaDance:EID_Sleek_S20CU": {
+      "templateId": "AthenaDance:EID_Sleek_S20CU",
+      "attributes": {
+        "max_level_bonus": 99999,
+        "level": 9999,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 9999,
+        "variants": [],
+        "creation_time": "2022-02-03T20:18:59Z",
+        "favorite": false,
+        "name": "Freedom Wheels"
       },
       "quantity": 1
     },
@@ -76299,6 +76396,21 @@
       },
       "quantity": 1
     },
+    "AthenaMusicPack:MusicPack_122_Sleek_3ST6M": {
+      "templateId": "AthenaMusicPack:MusicPack_122_Sleek_3ST6M",
+      "attributes": {
+        "max_level_bonus": 99999,
+        "level": 9999,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 9999,
+        "variants": [],
+        "creation_time": "2022-02-03T20:18:59Z",
+        "favorite": false,
+        "name": "Somebody This Fly"
+      },
+      "quantity": 1
+    },
     "AthenaMusicPack:MusicPack_Random": {
       "templateId": "AthenaMusicPack:MusicPack_Random",
       "attributes": {
@@ -89258,6 +89370,36 @@
       },
       "quantity": 1
     },
+    "AthenaPickaxe:Pickaxe_ID_744_SleekGlassesMale_ID69U": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_744_SleekGlassesMale_ID69U",
+      "attributes": {
+        "max_level_bonus": 99999,
+        "level": 9999,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 9999,
+        "variants": [],
+        "creation_time": "2022-02-03T20:18:59Z",
+        "favorite": false,
+        "name": "Boom Bap"
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:Pickaxe_ID_745_SleekMale_ECRL0": {
+      "templateId": "AthenaPickaxe:Pickaxe_ID_745_SleekMale_ECRL0",
+      "attributes": {
+        "max_level_bonus": 99999,
+        "level": 9999,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 9999,
+        "variants": [],
+        "creation_time": "2022-02-03T20:18:59Z",
+        "favorite": false,
+        "name": "Sound Scepter"
+      },
+      "quantity": 1
+    },
     "AthenaPickaxe:Pickaxe_ID_746_ZestFemale_4Y9TG": {
       "templateId": "AthenaPickaxe:Pickaxe_ID_746_ZestFemale_4Y9TG",
       "attributes": {
@@ -94565,6 +94707,21 @@
         "creation_time": "2022-01-18T10:22:18Z",
         "favorite": false,
         "name": "Summer Spllash"
+      },
+      "quantity": 1
+    },
+    "AthenaSpray:SPID_352_Sleek_8M482": {
+      "templateId": "AthenaSpray:SPID_352_Sleek_8M482",
+      "attributes": {
+        "max_level_bonus": 99999,
+        "level": 9999,
+        "item_seen": true,
+        "rnd_sel_cnt": 0,
+        "xp": 9999,
+        "variants": [],
+        "creation_time": "2022-02-03T20:18:59Z",
+        "favorite": false,
+        "name": "Silk Sonic"
       },
       "quantity": 1
     },
