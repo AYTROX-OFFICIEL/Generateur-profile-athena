@@ -1,266 +1,439 @@
 {
-  "_id": "",
-  "Update": "profile by AYTROX",
-  "created": "2022-01-08T22:58:06.983Z",
-  "updated": "2022-01-08T22:58:57.261Z",
-  "rvn": 24,
-  "wipeNumber": 1,
-  "accountId": "",
-  "profileId": "athena",
-  "version": "neonite_2",
-  "items": {
-    "sandbox_loadout": {
-      "templateId": "CosmeticLocker:cosmeticlocker_athena",
-      "attributes": {
-        "locker_slots_data": {
-          "slots": {
-            "Pickaxe": {
-              "items": [
-                "AthenaPickaxe:DefaultPickaxe"
-              ],
-              "activeVariants": []
-            },
-            "Dance": {
-              "items": [
-                "AthenaDance:EID_BoogieDown",
-                "AthenaDance:EID_DanceMoves",
-                "",
-                "",
-                "",
-                ""
-              ]
-            },
-            "Glider": {
-              "items": [
-                "AthenaGlider:DefaultGlider"
-              ]
-            },
-            "Character": {
-              "items": [
-                "AthenaCharacter:CID_001_Athena_Commando_F_Default"
-              ],
-              "activeVariants": [
-                {
-                  "variants": []
-                }
-              ]
-            },
-            "Backpack": {
-              "items": [
-                ""
-              ],
-              "activeVariants": [
-                {
-                  "variants": []
-                }
-              ]
-            },
-            "ItemWrap": {
-              "items": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-              ],
-              "activeVariants": [
-                null,
-                null,
-                null,
-                null,
-                null,
-                null,
-                null
-              ]
-            },
-            "LoadingScreen": {
-              "items": [
-                ""
-              ],
-              "activeVariants": [
-                null
-              ]
-            },
-            "MusicPack": {
-              "items": [
-                ""
-              ],
-              "activeVariants": [
-                null
-              ]
-            },
-            "SkyDiveContrail": {
-              "items": [
-                ""
-              ],
-              "activeVariants": [
-                null
-              ]
-            }
-          }
-        },
-        "use_count": 1,
-        "banner_icon_template": "",
-        "locker_name": "",
-        "banner_color_template": "",
-        "item_seen": false,
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "neoset0_loadout": {
-      "templateId": "CosmeticLocker:cosmeticlocker_athena",
-      "attributes": {
-        "locker_slots_data": {
-          "slots": {
-            "Pickaxe": {
-              "items": [
-                ""
-              ],
-              "activeVariants": []
-            },
-            "Dance": {
-              "items": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-              ]
-            },
-            "Glider": {
-              "items": [
-                ""
-              ]
-            },
-            "Character": {
-              "items": [
-                ""
-              ],
-              "activeVariants": [
-                {
-                  "variants": []
-                }
-              ]
-            },
-            "Backpack": {
-              "items": [
-                ""
-              ],
-              "activeVariants": [
-                {
-                  "variants": []
-                }
-              ]
-            },
-            "ItemWrap": {
-              "items": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-              ],
-              "activeVariants": [
-                null,
-                null,
-                null,
-                null,
-                null,
-                null,
-                null
-              ]
-            },
-            "LoadingScreen": {
-              "items": [
-                ""
-              ],
-              "activeVariants": [
-                null
-              ]
-            },
-            "MusicPack": {
-              "items": [
-                ""
-              ],
-              "activeVariants": [
-                null
-              ]
-            },
-            "SkyDiveContrail": {
-              "items": [
-                ""
-              ],
-              "activeVariants": [
-                null
-              ]
-            }
-          }
-        },
-        "use_count": 1,
-        "banner_icon_template": "",
-        "locker_name": "AYTROX",
-        "banner_color_template": "",
-        "item_seen": false,
-        "favorite": false
-      },
-      "quantity": 1
-    }
+ "_id": "",
+ "Update": "profile by AYTROX & ARWENT",
+ "created": "",
+ "updated": "",
+ "rvn": 24,
+ "wipeNumber": 1,
+ "accountId": "",
+ "profileId": "athena",
+ "version": "neonite_2",
+ "items": {
+  "b4391aee-719c-4a32-a448-862f53b86687": {
+   "templateId": "Quest:quest_c3_discover_landmarks",
+   "attributes": {
+    "creation_time": "2021-12-05T12:08:18.975Z",
+    "completion_visit_location_ch3_lm_beachcarpark": 1,
+    "completion_visit_location_ch3_lm_windmillfarm": 1,
+    "completion_visit_location_ch3_lm_smallmine": 1,
+    "completion_visit_location_ch3_lm_lighthouse": 1,
+    "completion_visit_location_ch3_lm_crazycactus": 1,
+    "xp_reward_scalar": 1,
+    "quest_pool": "",
+    "last_state_change_time": "2021-12-05T12:08:18.975Z",
+    "completion_visit_location_ch3_lm_birdingdunes": 1,
+    "completion_visit_location_ch3_lm_beachshacks": 1,
+    "completion_visit_location_ch3_lm_volcanomonitoringstation": 1,
+    "completion_visit_location_ch3_lm_kayakcampsite": 1,
+    "completion_visit_location_ch3_lm_adrift": 1,
+    "completion_visit_location_ch3_lm_fishingshacks": 1,
+    "completion_impossible_landmark_of_permanence_ch3": 1,
+    "quest_rarity": "uncommon",
+    "completion_visit_location_ch3_lm_fishyisland": 1,
+    "completion_visit_location_ch3_lm_io_ds_05": 1,
+    "completion_visit_location_ch3_lm_seven_rockrock": 1,
+    "completion_visit_location_ch3_lm_desertarch": 1,
+    "completion_visit_location_ch3_lm_io_ds_03": 1,
+    "completion_visit_location_ch3_lm_io_ds_04": 1,
+    "completion_visit_location_ch3_lm_windpowerbuilding": 1,
+    "completion_visit_location_ch3_lm_io_ds_01": 1,
+    "completion_visit_location_ch3_lm_io_ds_02": 1,
+    "level": -1,
+    "playlists": [],
+    "sent_new_notification": true,
+    "completion_visit_location_ch3_lm_rockmounds": 1,
+    "completion_visit_location_ch3_lm_lootlakeisland": 1,
+    "challenge_bundle_id": "",
+    "completion_visit_location_ch3_lm_desertmansion": 1,
+    "completion_visit_location_ch3_lm_dirttrack": 1,
+    "completion_visit_location_ch3_lm_bigbridge": 1,
+    "bucket": "",
+    "completion_visit_location_ch3_lm_ruinedtempletropical": 1,
+    "challenge_linked_quest_parent": "",
+    "max_level_bonus": 0,
+    "completion_visit_location_ch3_lm_puddlepond": 1,
+    "completion_visit_location_ch3_lm_boatrentals": 1,
+    "completion_visit_location_ch3_lm_butterbarn": 1,
+    "completion_visit_location_ch3_lm_wreckravine": 1,
+    "favorite": false,
+    "completion_visit_location_ch3_lm_vanlife": 1,
+    "completion_visit_location_ch3_lm_hiddenvillage": 1,
+    "completion_visit_location_ch3_lm_tinytimbertent": 1,
+    "completion_visit_location_ch3_lm_cattus": 1,
+    "completion_visit_location_ch3_lm_blockhouse": 1,
+    "item_seen": false,
+    "completion_visit_location_ch3_lm_seven_rocketbase": 1,
+    "completion_visit_location_ch3_lm_impossiblerock": 1,
+    "completion_visit_location_ch3_lm_llamafarm": 1,
+    "completion_visit_location_ch3_lm_loggingdock": 1,
+    "quest_state": "Active",
+    "completion_visit_location_ch3_lm_raptorfarmhouse": 1,
+    "completion_visit_location_ch3_lm_pawntoon": 1,
+    "completion_visit_location_ch3_lm_desertoasis": 1,
+    "completion_visit_location_ch3_lm_ruinedtemplejungle": 1,
+    "completion_visit_location_ch3_lm_rangertower": 1,
+    "completion_visit_location_ch3_lm_plantnursery": 1,
+    "completion_visit_location_ch3_lm_boatclub": 1,
+    "completion_visit_location_ch3_lm_loggingshack": 1,
+    "completion_visit_location_ch3_lm_burieddeserttown": 1,
+    "completion_visit_location_ch3_lm_frostyfields": 1,
+    "completion_visit_location_ch3_lm_sevenfb_05": 1,
+    "completion_visit_location_ch3_lm_sevenfb_04": 1,
+    "completion_visit_location_ch3_lm_sevenfb_07": 1,
+    "completion_visit_location_ch3_lm_sevenfb_06": 1,
+    "completion_visit_location_ch3_lm_sevenfb_01": 1,
+    "completion_visit_location_ch3_lm_looperlanding": 1,
+    "completion_visit_location_ch3_lm_horseshoebend": 1,
+    "completion_visit_location_ch3_lm_cliffhouse": 1,
+    "completion_visit_location_ch3_lm_templestairs": 1,
+    "completion_visit_location_ch3_lm_radiotower": 1,
+    "completion_visit_location_ch3_lm_crackshotscabin": 1,
+    "completion_visit_location_ch3_lm_sevenfb_03": 1,
+    "challenge_linked_quest_given": "",
+    "completion_visit_location_ch3_lm_sevenfb_02": 1,
+    "completion_visit_location_ch3_lm_smalltemple": 1,
+    "completion_visit_location_ch3_lm_powertower": 1,
+    "completion_visit_location_ch3_lm_deadtreepond": 1,
+    "completion_visit_location_ch3_lm_lootlake": 1,
+    "completion_visit_location_ch3_lm_bobshouse": 1,
+    "xp": 0,
+    "completion_visit_location_ch3_lm_piraterowboat": 1,
+    "completion_visit_location_ch3_lm_sunnystepruin": 1,
+    "completion_visit_location_ch3_lm_rustycarbeach": 1,
+    "completion_visit_location_ch3_lm_pinnaclepeak": 1,
+    "completion_visit_location_ch3_lm_fancymansion": 1
+   },
+   "quantity": 1
   },
-  "stats": {
-    "attributes": {
-      "season_match_boost": 0,
-      "loadouts": [
-        "sandbox_loadout",
-        "neoset0_loadout"
-      ],
-      "rested_xp_overflow": 0,
-      "mfa_reward_claimed": true,
-      "quest_manager": {},
-      "book_level": 50,
-      "season_num": 19,
-      "season_update": 1,
-      "book_xp": 1,
-      "permissions": [],
-      "book_purchased": false,
-      "lifetime_wins": 0,
-      "party_assist_quest": "",
-      "purchased_battle_pass_tier_offers": [],
-      "rested_xp_exchange": 0.333,
-      "level": 50,
-      "xp_overflow": 0,
-      "rested_xp": 0,
-      "rested_xp_mult": 0,
-      "accountLevel": 50,
-      "competitive_identity": {},
-      "inventory_limit_bonus": 0,
-      "last_applied_loadout": "sandbox_loadout",
-      "daily_rewards": {},
-      "xp": 1000,
-      "season_friend_match_boost": 1,
-      "active_loadout_index": 1,
-      "favorite_musicpack": "",
-      "favorite_glider": "",
-      "favorite_pickaxe": "",
-      "favorite_skydivecontrail": "",
-      "favorite_backpack": "",
-      "favorite_dance": [
+  "d7f9cd15-a519-4692-b22e-57700bc0cf6e": {
+   "templateId": "Quest:quest_c3_discover_namedlocations",
+   "attributes": {
+    "creation_time": "2021-12-05T12:08:18.975Z",
+    "item_seen": false,
+    "completion_visit_location_ch3_chonkersspeedway": 1,
+    "completion_visit_location_ch3_tiltedtowers": 1,
+    "completion_visit_location_ch3_scientistlab": 1,
+    "completion_visit_location_ch3_covertcavern": 1,
+    "xp_reward_scalar": 1,
+    "quest_pool": "",
+    "quest_state": "Active",
+    "last_state_change_time": "2021-12-05T12:08:18.975Z",
+    "completion_visit_location_ch3_condocanyon": 1,
+    "completion_visit_location_ch3_sleepysound": 1,
+    "completion_visit_location_ch3_logjam": 1,
+    "completion_impossible_poi_of_permanence_ch3": 1,
+    "completion_visit_location_ch3_shiftyshafts": 1,
+    "completion_visit_location_ch3_rockyreels": 1,
+    "completion_visit_location_ch3_campcuddles": 1,
+    "quest_rarity": "uncommon",
+    "completion_visit_location_ch3_thejoneses": 1,
+    "completion_visit_location_ch3_greasygrove": 1,
+    "level": -1,
+    "playlists": [],
+    "sent_new_notification": true,
+    "completion_visit_location_ch3_sanctuary": 1,
+    "challenge_bundle_id": "",
+    "challenge_linked_quest_given": "",
+    "completion_visit_location_ch3_creamycrossroads": 1,
+    "bucket": "",
+    "challenge_linked_quest_parent": "",
+    "max_level_bonus": 0,
+    "xp": 0,
+    "completion_visit_location_ch3_dailybugle": 1,
+    "favorite": false
+   },
+   "quantity": 1
+  },
+  "sandbox_loadout": {
+   "templateId": "CosmeticLocker:cosmeticlocker_athena",
+   "attributes": {
+    "locker_slots_data": {
+     "slots": {
+      "Pickaxe": {
+       "items": [
+        "AthenaPickaxe:DefaultPickaxe"
+       ],
+       "activeVariants": []
+      },
+      "Dance": {
+       "items": [
+        "AthenaDance:EID_DanceMoves",
+        "",
+        "",
+        "",
+        "",
+        ""
+       ]
+      },
+      "Glider": {
+       "items": [
+        "AthenaGlider:DefaultGlider"
+       ]
+      },
+      "Character": {
+       "items": [
+        "AthenaCharacter:CID_A_285_Athena_Commando_M_Prime_G"
+       ],
+       "activeVariants": [
+        {
+         "variants": [
+          {
+           "channel": "Material",
+           "active": "Mat1",
+           "owned": []
+          },
+          {
+           "channel": "Progressive",
+           "active": "Stage1",
+           "owned": []
+          },
+          {
+           "channel": "Emissive",
+           "active": "Emissive2",
+           "owned": []
+          }
+         ]
+        }
+       ]
+      },
+      "Backpack": {
+       "items": [
+        ""
+       ],
+       "activeVariants": [
+        {
+         "variants": [
+          {
+           "channel": "Progressive",
+           "active": "Stage1",
+           "owned": []
+          },
+          {
+           "channel": "Material",
+           "active": "Mat1",
+           "owned": []
+          },
+          {
+           "channel": "Progressive",
+           "active": "Stage1",
+           "owned": []
+          },
+          {
+           "channel": "Emissive",
+           "active": "Emissive2",
+           "owned": []
+          }
+         ]
+        }
+       ]
+      },
+      "ItemWrap": {
+       "items": [
+        "",
         "",
         "",
         "",
         "",
         "",
         ""
-      ],
-      "favorite_itemwraps": [],
-      "favorite_character": "",
-      "favorite_loadingscreen": ""
-    }
+       ],
+       "activeVariants": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+       ]
+      },
+      "LoadingScreen": {
+       "items": [
+        ""
+       ],
+       "activeVariants": [
+        null
+       ]
+      },
+      "MusicPack": {
+       "items": [
+        ""
+       ],
+       "activeVariants": [
+        null
+       ]
+      },
+      "SkyDiveContrail": {
+       "items": [
+        ""
+       ],
+       "activeVariants": [
+        null
+       ]
+      }
+     }
+    },
+    "use_count": 1,
+    "banner_icon_template": "",
+    "locker_name": "Custom by AYTROX & ARWENT",
+    "banner_color_template": "",
+    "item_seen": false,
+    "favorite": false
+   },
+   "quantity": 1
   },
-  "commandRevision": 5
+  "aytrox0_loadout": {
+   "templateId": "CosmeticLocker:cosmeticlocker_athena",
+   "attributes": {
+    "locker_slots_data": {
+     "slots": {
+      "Pickaxe": {
+       "items": [
+        ""
+       ],
+       "activeVariants": []
+      },
+      "Dance": {
+       "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+       ]
+      },
+      "Glider": {
+       "items": [
+        ""
+       ]
+      },
+      "Character": {
+       "items": [
+        ""
+       ],
+       "activeVariants": [
+        {
+         "variants": []
+        }
+       ]
+      },
+      "Backpack": {
+       "items": [
+        ""
+       ],
+       "activeVariants": [
+        {
+         "variants": []
+        }
+       ]
+      },
+      "ItemWrap": {
+       "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+       ],
+       "activeVariants": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+       ]
+      },
+      "LoadingScreen": {
+       "items": [
+        ""
+       ],
+       "activeVariants": [
+        null
+       ]
+      },
+      "MusicPack": {
+       "items": [
+        ""
+       ],
+       "activeVariants": [
+        null
+       ]
+      },
+      "SkyDiveContrail": {
+       "items": [
+        ""
+       ],
+       "activeVariants": [
+        null
+       ]
+      }
+     }
+    },
+    "use_count": 1,
+    "banner_icon_template": "",
+    "locker_name": "Custom by AYTROX & ARWENT",
+    "banner_color_template": "",
+    "item_seen": false,
+    "favorite": false
+   },
+   "quantity": 1
+  }
+ },
+ "stats": {
+  "attributes": {
+   "season_match_boost": 0,
+   "loadouts": [
+    "sandbox_loadout",
+    "aytrox0_loadout"
+   ],
+   "rested_xp_overflow": 0,
+   "mfa_reward_claimed": true,
+   "quest_manager": {},
+   "book_level": 1,
+   "season_num": 19,
+   "season_update": 1,
+   "book_xp": 1,
+   "permissions": [],
+   "book_purchased": false,
+   "lifetime_wins": 999,
+   "party_assist_quest": "",
+   "purchased_battle_pass_tier_offers": [],
+   "rested_xp_exchange": 0.333,
+   "level": 999,
+   "xp_overflow": 0,
+   "rested_xp": 0,
+   "rested_xp_mult": 0,
+   "accountLevel": 100000,
+   "competitive_identity": {},
+   "inventory_limit_bonus": 0,
+   "last_applied_loadout": "sandbox_loadout",
+   "daily_rewards": {},
+   "xp": 1000000,
+   "battlestars": 9999,
+   "season_friend_match_boost": 1,
+   "active_loadout_index": 1,
+   "favorite_musicpack": "",
+   "favorite_glider": "",
+   "favorite_pickaxe": "",
+   "favorite_skydivecontrail": "",
+   "favorite_backpack": "",
+   "favorite_dance": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "favorite_itemwraps": [],
+   "favorite_character": "",
+   "favorite_loadingscreen": ""
+  }
+ },
+ "commandRevision": 5
 }
