@@ -2,14 +2,14 @@
  "_id": "",
  "Update": "profile by AYTROX & ARWENT",
  "created": "2022-02-05T18:06:59.348Z",
- "updated": "2022-03-20T20:17:51.663Z",
+ "updated": "2022-03-24T18:25:13.020Z",
  "rvn": 7,
  "wipeNumber": 1,
  "accountId": "",
  "profileId": "athena",
  "version": "neonite_2",
  "items": {
-  "b4391aee-719c-4a32-a448-862f53b86687": {
+  "Quest:Quest_C3_Discover_Landmarks": {
    "templateId": "Quest:quest_c3_discover_landmarks",
    "attributes": {
     "creation_time": "2021-12-05T12:08:18.975Z",
@@ -85,6 +85,20 @@
     "completion_visit_location_ch3_lm_looperlanding": 1,
     "completion_visit_location_ch3_lm_horseshoebend": 1,
     "completion_visit_location_ch3_lm_cliffhouse": 1,
+    "completion_visit_location_ch3_lm_crater01": 1,
+    "completion_visit_location_ch3_lm_crater02": 1,
+    "completion_visit_location_ch3_lm_crater03": 1,
+    "completion_visit_location_ch3_lm_io_outpost01": 1,
+    "completion_visit_location_ch3_lm_io_outpost02": 1,
+    "completion_visit_location_ch3_lm_io_outpost03": 1,
+    "completion_visit_location_ch3_lm_io_outpost04": 1,
+    "completion_visit_location_ch3_lm_io_outpost05": 1,
+    "completion_visit_location_ch3_lm_io_blimp01": 1,
+    "completion_visit_location_ch3_lm_io_blimp02": 1,
+    "completion_visit_location_ch3_lm_io_blimp03": 1,
+    "completion_visit_location_ch3_lm_io_blimp04": 1,
+    "completion_visit_location_ch3_lm_io_blimp05": 1,
+    "completion_visit_location_ch3_lm_sinkhole": 1,
     "completion_visit_location_ch3_lm_templestairs": 1,
     "completion_visit_location_ch3_lm_radiotower": 1,
     "completion_visit_location_ch3_lm_crackshotscabin": 1,
@@ -105,10 +119,10 @@
    },
    "quantity": 1
   },
-  "d7f9cd15-a519-4692-b22e-57700bc0cf6e": {
+  "Quest:Quest_C3_Discover_NamedLocations": {
    "templateId": "Quest:quest_c3_discover_namedlocations",
    "attributes": {
-    "creation_time": "2021-12-05T12:08:18.975Z",
+    "creation_time": "2022-03-20T12:08:18.975Z",
     "item_seen": false,
     "completion_visit_location_ch3_chonkersspeedway": 1,
     "completion_visit_location_ch3_tiltedtowers": 1,
@@ -117,10 +131,12 @@
     "xp_reward_scalar": 1,
     "quest_pool": "",
     "quest_state": "Active",
-    "last_state_change_time": "2021-12-05T12:08:18.975Z",
+    "last_state_change_time": "2022-03-2T12:08:18.975Z",
     "completion_visit_location_ch3_condocanyon": 1,
     "completion_visit_location_ch3_sleepysound": 1,
     "completion_visit_location_ch3_logjam": 1,
+    "completion_visit_location_ch3_thefortress": 1,
+    "completion_visit_location_ch3_synapsestation": 1,
     "completion_impossible_poi_of_permanence_ch3": 1,
     "completion_visit_location_ch3_shiftyshafts": 1,
     "completion_visit_location_ch3_rockyreels": 1,
@@ -128,7 +144,7 @@
     "quest_rarity": "uncommon",
     "completion_visit_location_ch3_thejoneses": 1,
     "completion_visit_location_ch3_greasygrove": 1,
-    "level": -1,
+    "level": 1,
     "playlists": [],
     "sent_new_notification": true,
     "completion_visit_location_ch3_sanctuary": 1,
@@ -139,7 +155,7 @@
     "challenge_linked_quest_parent": "",
     "max_level_bonus": 0,
     "xp": 0,
-    "completion_visit_location_ch3_dailybugle": 1,
+    "completion_visit_location_ch3_thedailybugle": 1,
     "favorite": false
    },
    "quantity": 1
@@ -17939,6 +17955,21 @@
    },
    "quantity": 1
   },
+  "AthenaBackpack:BID_959_LurkFemale": {
+   "templateId": "AthenaBackpack:BID_959_LurkFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-24T00:00:00Z",
+    "favorite": false,
+    "name": "Gratte toilée"
+   },
+   "quantity": 1
+  },
   "AthenaBackpack:BID_960_BunnyPurple": {
    "templateId": "AthenaBackpack:BID_960_BunnyPurple",
    "attributes": {
@@ -18221,6 +18252,21 @@
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Ailes de l'Onirisme"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_977_SnowfallFemale_VRIU0": {
+   "templateId": "AthenaBackpack:BID_977_SnowfallFemale_VRIU0",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-24T13:11:27Z",
+    "favorite": false,
+    "name": "Ailes congelées"
    },
    "quantity": 1
   },
@@ -48534,6 +48580,21 @@
    },
    "quantity": 1
   },
+  "AthenaCharacter:CID_A_358_Athena_Commando_F_Lurk": {
+   "templateId": "AthenaCharacter:CID_A_358_Athena_Commando_F_Lurk",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-24T00:00:00Z",
+    "favorite": false,
+    "name": "Mary Jane Watson"
+   },
+   "quantity": 1
+  },
   "AthenaCharacter:CID_A_359_Athena_Commando_F_BunnyPurple": {
    "templateId": "AthenaCharacter:CID_A_359_Athena_Commando_F_BunnyPurple",
    "attributes": {
@@ -48953,6 +49014,32 @@
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "L'Onirisme"
+   },
+   "quantity": 1
+  },
+  "AthenaCharacter:CID_A_375_Athena_Commando_F_Snowfall_WXW2T": {
+   "templateId": "AthenaCharacter:CID_A_375_Athena_Commando_F_Snowfall_WXW2T",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Parts",
+      "active": "Stage1",
+      "owned": [
+       "Stage1",
+       "Stage4",
+       "Stage2",
+       "Stage3"
+      ]
+     }
+    ],
+    "creation_time": "2022-03-24T13:11:27Z",
+    "favorite": false,
+    "name": "Chloe Kim"
    },
    "quantity": 1
   },
@@ -57903,6 +57990,21 @@
     "creation_time": "2019-11-20T12:49:42Z",
     "favorite": false,
     "name": "Très discret"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_Snowfall_H6LU9": {
+   "templateId": "AthenaDance:EID_Snowfall_H6LU9",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-24T13:11:27Z",
+    "favorite": false,
+    "name": "Salto de la planche"
    },
    "quantity": 1
   },
@@ -70935,6 +71037,21 @@
    },
    "quantity": 1
   },
+  "AthenaGlider:Glider_ID_363_SnowfallFemale": {
+   "templateId": "AthenaGlider:Glider_ID_363_SnowfallFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-24T13:11:27Z",
+    "favorite": false,
+    "name": "Nunbola"
+   },
+   "quantity": 1
+  },
   "AthenaGlider:Glider_MiG": {
    "templateId": "AthenaGlider:Glider_MiG",
    "attributes": {
@@ -77127,6 +77244,21 @@
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Le tournant"
+   },
+   "quantity": 1
+  },
+  "AthenaLoadingScreen:LSID_420_SCRN_Snowfall": {
+   "templateId": "AthenaLoadingScreen:LSID_420_SCRN_Snowfall",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-24T13:11:27Z",
+    "favorite": false,
+    "name": "L'envol de Nunbola"
    },
    "quantity": 1
   },
@@ -92372,6 +92504,21 @@
    },
    "quantity": 1
   },
+  "AthenaPickaxe:Pickaxe_ID_762_LurkFemale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_762_LurkFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-24T00:00:00Z",
+    "favorite": false,
+    "name": "Gratte toilée"
+   },
+   "quantity": 1
+  },
   "AthenaPickaxe:Pickaxe_ID_763_ThriveFemale": {
    "templateId": "AthenaPickaxe:Pickaxe_ID_763_ThriveFemale",
    "attributes": {
@@ -92655,6 +92802,21 @@
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Griffe énergétique"
+   },
+   "quantity": 1
+  },
+  "AthenaPickaxe:Pickaxe_ID_775_SnowfallFemale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_775_SnowfallFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-24T13:11:27Z",
+    "favorite": false,
+    "name": "Volute glaciale"
    },
    "quantity": 1
   },
