@@ -2,12 +2,13 @@
  "_id": "",
  "Update": "profile by AYTROX & ARWENT",
  "created": "2022-02-05T18:06:59.348Z",
- "updated": "2022-03-24T18:25:13.020Z",
+ "updated": "2022-04-04T19:45:41.830Z",
  "rvn": 7,
  "wipeNumber": 1,
  "accountId": "",
  "profileId": "athena",
  "version": "neonite_2",
+ "cosmetics-version": "++Fortnite+Release-20.00-CL-19532288-Windows",
  "items": {
   "Quest:Quest_C3_Discover_Landmarks": {
    "templateId": "Quest:quest_c3_discover_landmarks",
@@ -131,7 +132,7 @@
     "xp_reward_scalar": 1,
     "quest_pool": "",
     "quest_state": "Active",
-    "last_state_change_time": "2022-03-2T12:08:18.975Z",
+    "last_state_change_time": "2022-03-21T12:08:18.975Z",
     "completion_visit_location_ch3_condocanyon": 1,
     "completion_visit_location_ch3_sleepysound": 1,
     "completion_visit_location_ch3_logjam": 1,
@@ -144,7 +145,7 @@
     "quest_rarity": "uncommon",
     "completion_visit_location_ch3_thejoneses": 1,
     "completion_visit_location_ch3_greasygrove": 1,
-    "level": 1,
+    "level": -1,
     "playlists": [],
     "sent_new_notification": true,
     "completion_visit_location_ch3_sanctuary": 1,
@@ -155,7 +156,7 @@
     "challenge_linked_quest_parent": "",
     "max_level_bonus": 0,
     "xp": 0,
-    "completion_visit_location_ch3_thedailybugle": 1,
+    "completion_visit_location_ch3_dailybugle": 1,
     "favorite": false
    },
    "quantity": 1
@@ -18267,6 +18268,21 @@
     "creation_time": "2022-03-24T13:11:27Z",
     "favorite": false,
     "name": "Ailes congelées"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_978_BacteriaFemale_UKDH2": {
+   "templateId": "AthenaBackpack:BID_978_BacteriaFemale_UKDH2",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-28T15:04:37Z",
+    "favorite": false,
+    "name": "Crocs de Sayara"
    },
    "quantity": 1
   },
@@ -49043,6 +49059,21 @@
    },
    "quantity": 1
   },
+  "AthenaCharacter:CID_A_378_Athena_Commando_F_Bacteria_8JYGU": {
+   "templateId": "AthenaCharacter:CID_A_378_Athena_Commando_F_Bacteria_8JYGU",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-28T15:04:37Z",
+    "favorite": false,
+    "name": "Sayara"
+   },
+   "quantity": 1
+  },
   "AthenaCharacter:CID_Creative_Mannequin_M_Default": {
    "templateId": "AthenaCharacter:CID_Creative_Mannequin_M_Default",
    "attributes": {
@@ -70981,6 +71012,21 @@
    },
    "quantity": 1
   },
+  "AthenaGlider:Glider_ID_359_MilitaryFashionCamo": {
+   "templateId": "AthenaGlider:Glider_ID_359_MilitaryFashionCamo",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-29T11:21:57Z",
+    "favorite": false,
+    "name": "Terrasurfeur survitaminé"
+   },
+   "quantity": 1
+  },
   "AthenaGlider:Glider_ID_360_MysticMale": {
    "templateId": "AthenaGlider:Glider_ID_360_MysticMale",
    "attributes": {
@@ -77262,6 +77308,21 @@
    },
    "quantity": 1
   },
+  "AthenaLoadingScreen:LSID_422_TacticalBR_Reward1": {
+   "templateId": "AthenaLoadingScreen:LSID_422_TacticalBR_Reward1",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-25T11:40:51Z",
+    "favorite": false,
+    "name": "Visée assurée"
+   },
+   "quantity": 1
+  },
   "AthenaLoadingScreen:LSID_423_Binary": {
    "templateId": "AthenaLoadingScreen:LSID_423_Binary",
    "attributes": {
@@ -77274,6 +77335,21 @@
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Onirisme absolu"
+   },
+   "quantity": 1
+  },
+  "AthenaLoadingScreen:LSID_424_NoPermit": {
+   "templateId": "AthenaLoadingScreen:LSID_424_NoPermit",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-29T11:21:57Z",
+    "favorite": false,
+    "name": "Plans déjoués"
    },
    "quantity": 1
   },
@@ -92549,6 +92625,21 @@
    },
    "quantity": 1
   },
+  "AthenaPickaxe:Pickaxe_ID_765_BacteriaFemale1H": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_765_BacteriaFemale1H",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-28T15:04:37Z",
+    "favorite": false,
+    "name": "Machetta double"
+   },
+   "quantity": 1
+  },
   "AthenaPickaxe:Pickaxe_ID_766_BinaryFemale": {
    "templateId": "AthenaPickaxe:Pickaxe_ID_766_BinaryFemale",
    "attributes": {
@@ -98407,6 +98498,66 @@
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Jones passe à l'action"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_375_TacticalBR_Reward2": {
+   "templateId": "AthenaSpray:SPID_375_TacticalBR_Reward2",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-29T11:21:57Z",
+    "favorite": false,
+    "name": "Mitraillage de Slone"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_376_TacticalBR_Reward3": {
+   "templateId": "AthenaSpray:SPID_376_TacticalBR_Reward3",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-29T11:21:57Z",
+    "favorite": false,
+    "name": "Focus bondissante"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_377_TacticalBR_Reward4": {
+   "templateId": "AthenaSpray:SPID_377_TacticalBR_Reward4",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-29T11:21:57Z",
+    "favorite": false,
+    "name": "Tir de Joker"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_378_TacticalBR_Reward5": {
+   "templateId": "AthenaSpray:SPID_378_TacticalBR_Reward5",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-29T11:21:57Z",
+    "favorite": false,
+    "name": "Parés pour le combat"
    },
    "quantity": 1
   },
@@ -107490,6 +107641,21 @@
    },
    "quantity": 1
   },
+  "AthenaItemWrap:Wrap_449_Bacteria": {
+   "templateId": "AthenaItemWrap:Wrap_449_Bacteria",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-28T15:04:37Z",
+    "favorite": false,
+    "name": "Vision de Sayara"
+   },
+   "quantity": 1
+  },
   "AthenaItemWrap:Wrap_450_Mystic": {
    "templateId": "AthenaItemWrap:Wrap_450_Mystic",
    "attributes": {
@@ -107610,6 +107776,21 @@
    },
    "quantity": 1
   },
+  "AthenaItemWrap:Wrap_459_MilitaryFashionCamo": {
+   "templateId": "AthenaItemWrap:Wrap_459_MilitaryFashionCamo",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-03-25T11:40:51Z",
+    "favorite": false,
+    "name": "Feu à volonté"
+   },
+   "quantity": 1
+  },
   "AthenaItemWrap:Wrap_CatBurglarGameplay": {
    "templateId": "AthenaItemWrap:Wrap_CatBurglarGameplay",
    "attributes": {
@@ -107659,6 +107840,9 @@
    "book_purchased": false,
    "lifetime_wins": 999,
    "party_assist_quest": "",
+   "purchased_bp_offers": [],
+   "style_points": 100000,
+   "alien_style_points": 100000,
    "purchased_battle_pass_tier_offers": [],
    "rested_xp_exchange": 0.333,
    "level": 999,
