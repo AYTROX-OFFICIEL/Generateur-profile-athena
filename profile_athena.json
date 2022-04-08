@@ -2,13 +2,13 @@
  "_id": "",
  "Update": "profile by AYTROX & ARWENT",
  "created": "2022-02-05T18:06:59.348Z",
- "updated": "2022-04-04T19:45:41.830Z",
+ "updated": "2022-04-08T17:00:41.943Z",
  "rvn": 7,
  "wipeNumber": 1,
  "accountId": "",
  "profileId": "athena",
  "version": "neonite_2",
- "cosmetics-version": "++Fortnite+Release-20.00-CL-19532288-Windows",
+ "cosmetics-version": "++Fortnite+Release-20.10-CL-19598943-Windows",
  "items": {
   "Quest:Quest_C3_Discover_Landmarks": {
    "templateId": "Quest:quest_c3_discover_landmarks",
@@ -99,6 +99,11 @@
     "completion_visit_location_ch3_lm_io_blimp03": 1,
     "completion_visit_location_ch3_lm_io_blimp04": 1,
     "completion_visit_location_ch3_lm_io_blimp05": 1,
+    "completion_visit_location_ch3_lm_io_dblimp01": 1,
+    "completion_visit_location_ch3_lm_io_dblimp02": 1,
+    "completion_visit_location_ch3_lm_io_dblimp03": 1,
+    "completion_visit_location_ch3_lm_io_dblimp04": 1,
+    "completion_visit_location_ch3_lm_io_dblimp05": 1,
     "completion_visit_location_ch3_lm_sinkhole": 1,
     "completion_visit_location_ch3_lm_templestairs": 1,
     "completion_visit_location_ch3_lm_radiotower": 1,
@@ -18256,6 +18261,21 @@
    },
    "quantity": 1
   },
+  "AthenaBackpack:BID_975_JourneyMentor_NFF9C": {
+   "templateId": "AthenaBackpack:BID_975_JourneyMentor_NFF9C",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T14:38:42Z",
+    "favorite": false,
+    "name": "Bouclier d'Eivor"
+   },
+   "quantity": 1
+  },
   "AthenaBackpack:BID_977_SnowfallFemale_VRIU0": {
    "templateId": "AthenaBackpack:BID_977_SnowfallFemale_VRIU0",
    "attributes": {
@@ -18283,6 +18303,36 @@
     "creation_time": "2022-03-28T15:04:37Z",
     "favorite": false,
     "name": "Crocs de Sayara"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_981_VampireHunterFemale": {
+   "templateId": "AthenaBackpack:BID_981_VampireHunterFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Lames séléniennes"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_984_GnomeCandle": {
+   "templateId": "AthenaBackpack:BID_984_GnomeCandle",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Lanterne onirique"
    },
    "quantity": 1
   },
@@ -40824,7 +40874,8 @@
       "owned": [
        "Mat1",
        "Mat2",
-       "Mat3"
+       "Mat3",
+       "Mat4"
       ]
      }
     ],
@@ -48775,7 +48826,18 @@
     "item_seen": true,
     "rnd_sel_cnt": 0,
     "xp": 9999,
-    "variants": [],
+    "variants": [
+     {
+      "channel": "Material",
+      "active": "Mat1",
+      "owned": [
+       "Mat1",
+       "Mat2",
+       "Mat3",
+       "Mat4"
+      ]
+     }
+    ],
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Doctor Strange"
@@ -48822,7 +48884,10 @@
        "Stage1",
        "Stage3",
        "Stage2",
-       "Stage4"
+       "Stage4",
+       "Stage5",
+       "Stage6",
+       "Stage7"
       ]
      }
     ],
@@ -48856,7 +48921,10 @@
        "Stage1",
        "Stage2",
        "Stage4",
-       "Stage3"
+       "Stage3",
+       "Stage5",
+       "Stage6",
+       "Stage7"
       ]
      }
     ],
@@ -48898,7 +48966,10 @@
       "owned": [
        "Mat1",
        "Mat2",
-       "Mat3"
+       "Mat3",
+       "Mat4",
+       "Mat5",
+       "Mat6"
       ]
      }
     ],
@@ -48942,7 +49013,10 @@
       "owned": [
        "Stage1",
        "Stage2",
-       "Stage3"
+       "Stage3",
+       "Stage4",
+       "Stage5",
+       "Stage6"
       ]
      }
     ],
@@ -49059,6 +49133,30 @@
    },
    "quantity": 1
   },
+  "AthenaCharacter:CID_A_376_Athena_Commando_F_JourneyMentor_66VFP": {
+   "templateId": "AthenaCharacter:CID_A_376_Athena_Commando_F_JourneyMentor_66VFP",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Parts",
+      "active": "Stage1",
+      "owned": [
+       "Stage1",
+       "Stage2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-05T14:38:42Z",
+    "favorite": false,
+    "name": "Eivor Varinsdottir"
+   },
+   "quantity": 1
+  },
   "AthenaCharacter:CID_A_378_Athena_Commando_F_Bacteria_8JYGU": {
    "templateId": "AthenaCharacter:CID_A_378_Athena_Commando_F_Bacteria_8JYGU",
    "attributes": {
@@ -49071,6 +49169,21 @@
     "creation_time": "2022-03-28T15:04:37Z",
     "favorite": false,
     "name": "Sayara"
+   },
+   "quantity": 1
+  },
+  "AthenaCharacter:CID_A_379_Athena_Commando_F_VampireHunter": {
+   "templateId": "AthenaCharacter:CID_A_379_Athena_Commando_F_VampireHunter",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Sorina"
    },
    "quantity": 1
   },
@@ -49487,10 +49600,19 @@
     "item_seen": true,
     "rnd_sel_cnt": 0,
     "xp": 9999,
-    "variants": [],
+    "variants": [
+     {
+      "channel": "Material",
+      "active": "Mat1",
+      "owned": [
+       "Mat1",
+       "Mat2"
+      ]
+     }
+    ],
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
-    "name": "Maître-chasseur Sabre"
+    "name": "TBD"
    },
    "quantity": 1
   },
@@ -51399,6 +51521,81 @@
    },
    "quantity": 1
   },
+  "AthenaDance:EID_Checkmate": {
+   "templateId": "AthenaDance:EID_Checkmate",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Génie des échecs"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_Checkmate_Owned": {
+   "templateId": "AthenaDance:EID_Checkmate_Owned",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "null"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_Checkmate_Owned_Follower": {
+   "templateId": "AthenaDance:EID_Checkmate_Owned_Follower",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "null"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_Checkmate_Sync": {
+   "templateId": "AthenaDance:EID_Checkmate_Sync",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "null"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_Checkmate_Sync_Follower": {
+   "templateId": "AthenaDance:EID_Checkmate_Sync_Follower",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "null"
+   },
+   "quantity": 1
+  },
   "AthenaDance:EID_Cheerleading": {
    "templateId": "AthenaDance:EID_Cheerleading",
    "attributes": {
@@ -52941,6 +53138,21 @@
     "creation_time": "2019-11-20T12:49:44Z",
     "favorite": false,
     "name": "Virtuose du disque"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_Frontier": {
+   "templateId": "AthenaDance:EID_Frontier",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Cow-boy"
    },
    "quantity": 1
   },
@@ -54576,6 +54788,21 @@
     "creation_time": "2022-03-01T15:13:19Z",
     "favorite": false,
     "name": "Posture de l'Assassin"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_JourneyMentor_X2D9N": {
+   "templateId": "AthenaDance:EID_JourneyMentor_X2D9N",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T14:38:42Z",
+    "favorite": false,
+    "name": "Cri de guerre viking"
    },
    "quantity": 1
   },
@@ -58981,6 +59208,21 @@
     "creation_time": "2019-11-20T12:49:41Z",
     "favorite": false,
     "name": "Pose en T"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_Traction": {
+   "templateId": "AthenaDance:EID_Traction",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Mini tondeuse"
    },
    "quantity": 1
   },
@@ -64306,6 +64548,21 @@
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Yeux au ciel"
+   },
+   "quantity": 1
+  },
+  "AthenaEmoji:Emoji_S20_JourneyMentor": {
+   "templateId": "AthenaEmoji:Emoji_S20_JourneyMentor",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T14:38:42Z",
+    "favorite": false,
+    "name": "Clan du Grand corbeau"
    },
    "quantity": 1
   },
@@ -70987,6 +71244,21 @@
    },
    "quantity": 1
   },
+  "AthenaGlider:Glider_ID_357_JourneyFemale": {
+   "templateId": "AthenaGlider:Glider_ID_357_JourneyFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T14:38:42Z",
+    "favorite": false,
+    "name": "Navire ami-des-loups"
+   },
+   "quantity": 1
+  },
   "AthenaGlider:Glider_ID_358_KnightCatFemale": {
    "templateId": "AthenaGlider:Glider_ID_358_KnightCatFemale",
    "attributes": {
@@ -77308,6 +77580,21 @@
    },
    "quantity": 1
   },
+  "AthenaLoadingScreen:LSID_421_SCRN_JourneyMentor": {
+   "templateId": "AthenaLoadingScreen:LSID_421_SCRN_JourneyMentor",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T14:38:42Z",
+    "favorite": false,
+    "name": "Fureur d'Eivor"
+   },
+   "quantity": 1
+  },
   "AthenaLoadingScreen:LSID_422_TacticalBR_Reward1": {
    "templateId": "AthenaLoadingScreen:LSID_422_TacticalBR_Reward1",
    "attributes": {
@@ -77350,6 +77637,21 @@
     "creation_time": "2022-03-29T11:21:57Z",
     "favorite": false,
     "name": "Plans déjoués"
+   },
+   "quantity": 1
+  },
+  "AthenaLoadingScreen:LSID_425_POIBattle": {
+   "templateId": "AthenaLoadingScreen:LSID_425_POIBattle",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Début de la campagne"
    },
    "quantity": 1
   },
@@ -92815,6 +93117,30 @@
    },
    "quantity": 1
   },
+  "AthenaPickaxe:Pickaxe_ID_769_JourneyMentorFemale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_769_JourneyMentorFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Mesh",
+      "active": "Stage1",
+      "owned": [
+       "Stage1",
+       "Stage2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-05T14:38:42Z",
+    "favorite": false,
+    "name": "Hachettes du Grand corbeau"
+   },
+   "quantity": 1
+  },
   "AthenaPickaxe:Pickaxe_ID_770_KnightCatFemale": {
    "templateId": "AthenaPickaxe:Pickaxe_ID_770_KnightCatFemale",
    "attributes": {
@@ -92933,6 +93259,21 @@
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Cubosceptre"
+   },
+   "quantity": 1
+  },
+  "AthenaPickaxe:Pickaxe_ID_779_VampireHunterFemale1H": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_779_VampireHunterFemale1H",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Lames séléniennes"
    },
    "quantity": 1
   },
@@ -98411,6 +98752,21 @@
    },
    "quantity": 1
   },
+  "AthenaSpray:SPID_366_JourneyMentor": {
+   "templateId": "AthenaSpray:SPID_366_JourneyMentor",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T14:38:42Z",
+    "favorite": false,
+    "name": "Amie-des-loups"
+   },
+   "quantity": 1
+  },
   "AthenaSpray:SPID_367_KnightCat": {
    "templateId": "AthenaSpray:SPID_367_KnightCat",
    "attributes": {
@@ -98558,6 +98914,51 @@
     "creation_time": "2022-03-29T11:21:57Z",
     "favorite": false,
     "name": "Parés pour le combat"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_380_CollegeCup": {
+   "templateId": "AthenaSpray:SPID_380_CollegeCup",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Experte de la fac"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_381_Windwalker": {
+   "templateId": "AthenaSpray:SPID_381_Windwalker",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Vent d'Écho"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_382_UERaider": {
+   "templateId": "AthenaSpray:SPID_382_UERaider",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Lara dans l'ombre"
    },
    "quantity": 1
   },
@@ -100599,7 +101000,17 @@
     "item_seen": true,
     "rnd_sel_cnt": 0,
     "xp": 9999,
-    "variants": [],
+    "variants": [
+     {
+      "channel": "Particle",
+      "active": "Particle1",
+      "owned": [
+       "Particle1",
+       "Particle2",
+       "Particle3"
+      ]
+     }
+    ],
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Dagues défuntes"
@@ -107788,6 +108199,51 @@
     "creation_time": "2022-03-25T11:40:51Z",
     "favorite": false,
     "name": "Feu à volonté"
+   },
+   "quantity": 1
+  },
+  "AthenaItemWrap:Wrap_461_GnomeCandle": {
+   "templateId": "AthenaItemWrap:Wrap_461_GnomeCandle",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Lumière de cristal"
+   },
+   "quantity": 1
+  },
+  "AthenaItemWrap:Wrap_462_Corkboard": {
+   "templateId": "AthenaItemWrap:Wrap_462_Corkboard",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Fan art"
+   },
+   "quantity": 1
+  },
+  "AthenaItemWrap:Wrap_463_Disarray": {
+   "templateId": "AthenaItemWrap:Wrap_463_Disarray",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-05T08:21:07Z",
+    "favorite": false,
+    "name": "Surcharge onirique"
    },
    "quantity": 1
   },
