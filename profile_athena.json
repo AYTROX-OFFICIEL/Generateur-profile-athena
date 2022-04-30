@@ -1,14 +1,14 @@
 {
  "_id": "",
  "Update": "profile by AYTROX & ARWENT",
- "created": "2022-02-05T18:06:59.348Z",
- "updated": "2022-04-08T17:00:41.943Z",
+ "created": "2022-04-11T20:07:34.573Z",
+ "updated": "2022-04-30T16:29:50.480Z",
  "rvn": 7,
  "wipeNumber": 1,
  "accountId": "",
  "profileId": "athena",
  "version": "neonite_2",
- "cosmetics-version": "++Fortnite+Release-20.10-CL-19598943-Windows",
+ "cosmetics-version": "++Fortnite+Release-20.20-CL-19751212-Windows",
  "items": {
   "Quest:Quest_C3_Discover_Landmarks": {
    "templateId": "Quest:quest_c3_discover_landmarks",
@@ -1502,6 +1502,36 @@
     "xp": 9999,
     "variants": [],
     "creation_time": "2020-12-08T19:08:39Z",
+    "favorite": false,
+    "name": "Bannière"
+   },
+   "quantity": 1
+  },
+  "BannerToken:BannerToken_075_S20_JourneyMentor": {
+   "templateId": "BannerToken:BannerToken_075_S20_JourneyMentor",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Bannière"
+   },
+   "quantity": 1
+  },
+  "BannerToken:BannerToken_076_S20_Lyrical": {
+   "templateId": "BannerToken:BannerToken_076_S20_Lyrical",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-21T14:03:51Z",
     "favorite": false,
     "name": "Bannière"
    },
@@ -18306,6 +18336,36 @@
    },
    "quantity": 1
   },
+  "AthenaBackpack:BID_979_CactusRockerFemale_IF1QA": {
+   "templateId": "AthenaBackpack:BID_979_CactusRockerFemale_IF1QA",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-15T00:00:00Z",
+    "favorite": false,
+    "name": "Swaguaro"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_980_CactusRockerMale_7FLSJ": {
+   "templateId": "AthenaBackpack:BID_980_CactusRockerMale_7FLSJ",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-15T00:00:00Z",
+    "favorite": false,
+    "name": "Luminodon"
+   },
+   "quantity": 1
+  },
   "AthenaBackpack:BID_981_VampireHunterFemale": {
    "templateId": "AthenaBackpack:BID_981_VampireHunterFemale",
    "attributes": {
@@ -18321,6 +18381,36 @@
    },
    "quantity": 1
   },
+  "AthenaBackpack:BID_982_Scrawl_VFI6L": {
+   "templateId": "AthenaBackpack:BID_982_Scrawl_VFI6L",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-11T00:00:00Z",
+    "favorite": false,
+    "name": "Tuxedo de Basquiat"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_983_ScrawlDino_AD541": {
+   "templateId": "AthenaBackpack:BID_983_ScrawlDino_AD541",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-11T00:00:00Z",
+    "favorite": false,
+    "name": "Rex couronné"
+   },
+   "quantity": 1
+  },
   "AthenaBackpack:BID_984_GnomeCandle": {
    "templateId": "AthenaBackpack:BID_984_GnomeCandle",
    "attributes": {
@@ -18333,6 +18423,159 @@
     "creation_time": "2022-04-05T08:21:07Z",
     "favorite": false,
     "name": "Lanterne onirique"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_985_CactusDancerMale": {
+   "templateId": "AthenaBackpack:BID_985_CactusDancerMale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-22T00:00:00Z",
+    "favorite": false,
+    "name": "Joie sonique"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_986_CactusDancerFemale": {
+   "templateId": "AthenaBackpack:BID_986_CactusDancerFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-22T00:00:00Z",
+    "favorite": false,
+    "name": "Casque cosmonautique"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_987_Rumble_Female": {
+   "templateId": "AthenaBackpack:BID_987_Rumble_Female",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-26T13:59:49Z",
+    "favorite": false,
+    "name": "Attrape-Hanakazé"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_988_Rumble": {
+   "templateId": "AthenaBackpack:BID_988_Rumble",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-26T13:59:49Z",
+    "favorite": false,
+    "name": "Blanka-chan"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_989_CroissantMale": {
+   "templateId": "AthenaBackpack:BID_989_CroissantMale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-21T00:00:00Z",
+    "favorite": false,
+    "name": "Cape de Moon Knight"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_990_LyricalMale": {
+   "templateId": "AthenaBackpack:BID_990_LyricalMale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Material",
+      "active": "Mat1",
+      "owned": [
+       "Mat1",
+       "Mat2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Planète WUWEAR"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_991_LyricalFemale": {
+   "templateId": "AthenaBackpack:BID_991_LyricalFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Particle",
+      "active": "Particle1",
+      "owned": [
+       "Particle1",
+       "Particle2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Wu-Tang représente"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_995_ForsakeFemale": {
+   "templateId": "AthenaBackpack:BID_995_ForsakeFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-27T15:58:49Z",
+    "favorite": false,
+    "name": "Électrocontreur"
+   },
+   "quantity": 1
+  },
+  "AthenaBackpack:BID_997_FNCS20Female": {
+   "templateId": "AthenaBackpack:BID_997_FNCS20Female",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Bouclier de championne"
    },
    "quantity": 1
   },
@@ -21714,7 +21957,16 @@
     "item_seen": true,
     "rnd_sel_cnt": 0,
     "xp": 9999,
-    "variants": [],
+    "variants": [
+     {
+      "channel": "Material",
+      "active": "Mat1",
+      "owned": [
+       "Mat1",
+       "Mat2"
+      ]
+     }
+    ],
     "creation_time": "2019-11-20T12:50:20Z",
     "favorite": false,
     "name": "Semblance"
@@ -28512,7 +28764,8 @@
       "active": "Mat1",
       "owned": [
        "Mat1",
-       "Mat2"
+       "Mat2",
+       "Mat3"
       ]
      }
     ],
@@ -49187,6 +49440,239 @@
    },
    "quantity": 1
   },
+  "AthenaCharacter:CID_A_380_Athena_Commando_M_CactusRocker_SBI3T": {
+   "templateId": "AthenaCharacter:CID_A_380_Athena_Commando_M_CactusRocker_SBI3T",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Parts",
+      "active": "Stage1",
+      "owned": [
+       "Stage1",
+       "Stage2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-15T00:00:00Z",
+    "favorite": false,
+    "name": "Naturel"
+   },
+   "quantity": 1
+  },
+  "AthenaCharacter:CID_A_381_Athena_Commando_F_CactusRocker_3HTBV": {
+   "templateId": "AthenaCharacter:CID_A_381_Athena_Commando_F_CactusRocker_3HTBV",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Material",
+      "active": "Mat1",
+      "owned": [
+       "Mat1",
+       "Mat2",
+       "Mat3"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-15T00:00:00Z",
+    "favorite": false,
+    "name": "Fraîche"
+   },
+   "quantity": 1
+  },
+  "AthenaCharacter:CID_A_382_Athena_Commando_M_CactusDancer": {
+   "templateId": "AthenaCharacter:CID_A_382_Athena_Commando_M_CactusDancer",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Material",
+      "active": "Mat1",
+      "owned": [
+       "Mat1",
+       "Mat2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-22T00:00:00Z",
+    "favorite": false,
+    "name": "Alto"
+   },
+   "quantity": 1
+  },
+  "AthenaCharacter:CID_A_383_Athena_Commando_F_CactusDancer": {
+   "templateId": "AthenaCharacter:CID_A_383_Athena_Commando_F_CactusDancer",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Material",
+      "active": "Mat1",
+      "owned": [
+       "Mat1",
+       "Mat2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-22T00:00:00Z",
+    "favorite": false,
+    "name": "Poète"
+   },
+   "quantity": 1
+  },
+  "AthenaCharacter:CID_A_384_Athena_Commando_M_Rumble": {
+   "templateId": "AthenaCharacter:CID_A_384_Athena_Commando_M_Rumble",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Parts",
+      "active": "Stage1",
+      "owned": [
+       "Stage1",
+       "Stage2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-26T13:59:49Z",
+    "favorite": false,
+    "name": "Blanka"
+   },
+   "quantity": 1
+  },
+  "AthenaCharacter:CID_A_385_Athena_Commando_F_Rumble": {
+   "templateId": "AthenaCharacter:CID_A_385_Athena_Commando_F_Rumble",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Parts",
+      "active": "Stage1",
+      "owned": [
+       "Stage1",
+       "Stage2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-26T13:59:49Z",
+    "favorite": false,
+    "name": "Sakura"
+   },
+   "quantity": 1
+  },
+  "AthenaCharacter:CID_A_386_Athena_Commando_M_Croissant": {
+   "templateId": "AthenaCharacter:CID_A_386_Athena_Commando_M_Croissant",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Parts",
+      "active": "Stage1",
+      "owned": [
+       "Stage1",
+       "Stage2",
+       "Stage3"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-21T00:00:00Z",
+    "favorite": false,
+    "name": "Moon Knight"
+   },
+   "quantity": 1
+  },
+  "AthenaCharacter:CID_A_387_Athena_Commando_M_Lyrical": {
+   "templateId": "AthenaCharacter:CID_A_387_Athena_Commando_M_Lyrical",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Parts",
+      "active": "Stage1",
+      "owned": [
+       "Stage1",
+       "Stage2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Gars sûr"
+   },
+   "quantity": 1
+  },
+  "AthenaCharacter:CID_A_388_Athena_Commando_F_Lyrical": {
+   "templateId": "AthenaCharacter:CID_A_388_Athena_Commando_F_Lyrical",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Parts",
+      "active": "Stage1",
+      "owned": [
+       "Stage1",
+       "Stage2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Swaggeuse"
+   },
+   "quantity": 1
+  },
+  "AthenaCharacter:CID_A_393_Athena_Commando_F_Forsake": {
+   "templateId": "AthenaCharacter:CID_A_393_Athena_Commando_F_Forsake",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-27T15:58:49Z",
+    "favorite": false,
+    "name": "Gauchère"
+   },
+   "quantity": 1
+  },
   "AthenaCharacter:CID_Creative_Mannequin_M_Default": {
    "templateId": "AthenaCharacter:CID_Creative_Mannequin_M_Default",
    "attributes": {
@@ -50123,6 +50609,21 @@
     "creation_time": "2019-11-20T12:49:46Z",
     "favorite": false,
     "name": "Allez les aliens"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_Aloha_C82XX": {
+   "templateId": "AthenaDance:EID_Aloha_C82XX",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-09T00:00:00Z",
+    "favorite": false,
+    "name": "Bon son"
    },
    "quantity": 1
   },
@@ -51866,6 +52367,21 @@
    },
    "quantity": 1
   },
+  "AthenaDance:EID_Concentrate_0W5GY": {
+   "templateId": "AthenaDance:EID_Concentrate_0W5GY",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-30T00:00:00Z",
+    "favorite": false,
+    "name": "C'est du gâteau !"
+   },
+   "quantity": 1
+  },
   "AthenaDance:EID_Confused": {
    "templateId": "AthenaDance:EID_Confused",
    "attributes": {
@@ -52103,6 +52619,51 @@
     "creation_time": "2019-11-20T12:49:45Z",
     "favorite": false,
     "name": "Ouin ouin"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_CT_CapturePose_01": {
+   "templateId": "AthenaDance:EID_CT_CapturePose_01",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "CapturePose01"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_CT_CapturePose_02": {
+   "templateId": "AthenaDance:EID_CT_CapturePose_02",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "CapturePose02"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_CT_CapturePose_03": {
+   "templateId": "AthenaDance:EID_CT_CapturePose_03",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "CapturePose03"
    },
    "quantity": 1
   },
@@ -55601,6 +56162,21 @@
    },
    "quantity": 1
   },
+  "AthenaDance:EID_Lyrical": {
+   "templateId": "AthenaDance:EID_Lyrical",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Wu-Tang pour toujours"
+   },
+   "quantity": 1
+  },
   "AthenaDance:EID_Macaroon_45LHE": {
    "templateId": "AthenaDance:EID_Macaroon_45LHE",
    "attributes": {
@@ -57321,6 +57897,36 @@
    },
    "quantity": 1
   },
+  "AthenaDance:EID_Rumble_Female": {
+   "templateId": "AthenaDance:EID_Rumble_Female",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-26T13:59:49Z",
+    "favorite": false,
+    "name": "Danse de victoire de Sakura"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_Rumble_Male": {
+   "templateId": "AthenaDance:EID_Rumble_Male",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-26T13:59:49Z",
+    "favorite": false,
+    "name": "Salto arrière de Blanka"
+   },
+   "quantity": 1
+  },
   "AthenaDance:EID_RunningMan": {
    "templateId": "AthenaDance:EID_RunningMan",
    "attributes": {
@@ -58671,6 +59277,21 @@
    },
    "quantity": 1
   },
+  "AthenaDance:EID_SweetToss": {
+   "templateId": "AthenaDance:EID_SweetToss",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Pause grignotage"
+   },
+   "quantity": 1
+  },
   "AthenaDance:EID_SwimDance": {
    "templateId": "AthenaDance:EID_SwimDance",
    "attributes": {
@@ -59268,6 +59889,21 @@
     "creation_time": "2020-08-05T08:09:19Z",
     "favorite": false,
     "name": "Patinage libre"
+   },
+   "quantity": 1
+  },
+  "AthenaDance:EID_Triumphant": {
+   "templateId": "AthenaDance:EID_Triumphant",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-29T00:00:00Z",
+    "favorite": false,
+    "name": "Vie triomphante"
    },
    "quantity": 1
   },
@@ -64461,6 +65097,21 @@
    },
    "quantity": 1
   },
+  "AthenaEmoji:Emoji_S20_BestFriendzyV2": {
+   "templateId": "AthenaEmoji:Emoji_S20_BestFriendzyV2",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Cabot boxeur"
+   },
+   "quantity": 1
+  },
   "AthenaEmoji:Emoji_S20_BunnyBrawl": {
    "templateId": "AthenaEmoji:Emoji_S20_BunnyBrawl",
    "attributes": {
@@ -64503,6 +65154,21 @@
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Arrivée triomphale"
+   },
+   "quantity": 1
+  },
+  "AthenaEmoji:Emoji_S20_Cheers_Competitive": {
+   "templateId": "AthenaEmoji:Emoji_S20_Cheers_Competitive",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Santé !"
    },
    "quantity": 1
   },
@@ -64551,6 +65217,141 @@
    },
    "quantity": 1
   },
+  "AthenaEmoji:Emoji_S20_FNCSDrops": {
+   "templateId": "AthenaEmoji:Emoji_S20_FNCSDrops",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "K.-O. !"
+   },
+   "quantity": 1
+  },
+  "AthenaEmoji:Emoji_S20_GG_CampFire": {
+   "templateId": "AthenaEmoji:Emoji_S20_GG_CampFire",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Feu de bois GG"
+   },
+   "quantity": 1
+  },
+  "AthenaEmoji:Emoji_S20_GG_Cube": {
+   "templateId": "AthenaEmoji:Emoji_S20_GG_Cube",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Cube GG"
+   },
+   "quantity": 1
+  },
+  "AthenaEmoji:Emoji_S20_GG_CuddleTeam": {
+   "templateId": "AthenaEmoji:Emoji_S20_GG_CuddleTeam",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Duvet GG"
+   },
+   "quantity": 1
+  },
+  "AthenaEmoji:Emoji_S20_GG_Fire": {
+   "templateId": "AthenaEmoji:Emoji_S20_GG_Fire",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Flammes GG"
+   },
+   "quantity": 1
+  },
+  "AthenaEmoji:Emoji_S20_GG_Gold": {
+   "templateId": "AthenaEmoji:Emoji_S20_GG_Gold",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Dorure GG"
+   },
+   "quantity": 1
+  },
+  "AthenaEmoji:Emoji_S20_GG_Ice_Version1": {
+   "templateId": "AthenaEmoji:Emoji_S20_GG_Ice_Version1",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Coup de froid GG"
+   },
+   "quantity": 1
+  },
+  "AthenaEmoji:Emoji_S20_GG_Ice_Version2": {
+   "templateId": "AthenaEmoji:Emoji_S20_GG_Ice_Version2",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Glace GG"
+   },
+   "quantity": 1
+  },
+  "AthenaEmoji:Emoji_S20_GG_Pizza": {
+   "templateId": "AthenaEmoji:Emoji_S20_GG_Pizza",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Pizza GG"
+   },
+   "quantity": 1
+  },
   "AthenaEmoji:Emoji_S20_JourneyMentor": {
    "templateId": "AthenaEmoji:Emoji_S20_JourneyMentor",
    "attributes": {
@@ -64581,6 +65382,21 @@
    },
    "quantity": 1
   },
+  "AthenaEmoji:Emoji_S20_Lyrical": {
+   "templateId": "AthenaEmoji:Emoji_S20_Lyrical",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Mains Wu-Tang"
+   },
+   "quantity": 1
+  },
   "AthenaEmoji:Emoji_S20_Mystic": {
    "templateId": "AthenaEmoji:Emoji_S20_Mystic",
    "attributes": {
@@ -64608,6 +65424,21 @@
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Butin pour Camaïeu"
+   },
+   "quantity": 1
+  },
+  "AthenaEmoji:Emoji_S20_NeonGG_Competitive": {
+   "templateId": "AthenaEmoji:Emoji_S20_NeonGG_Competitive",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Néon GG"
    },
    "quantity": 1
   },
@@ -64668,6 +65499,21 @@
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Jonesy en sueur"
+   },
+   "quantity": 1
+  },
+  "AthenaEmoji:Emoji_S20_Teknique_Competitive": {
+   "templateId": "AthenaEmoji:Emoji_S20_Teknique_Competitive",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Graffeuse GG"
    },
    "quantity": 1
   },
@@ -71370,6 +72216,45 @@
    },
    "quantity": 1
   },
+  "AthenaGlider:Glider_ID_364_LyricalFemale": {
+   "templateId": "AthenaGlider:Glider_ID_364_LyricalFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Particle",
+      "active": "Particle1",
+      "owned": [
+       "Particle1",
+       "Particle2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Disque Shimmy"
+   },
+   "quantity": 1
+  },
+  "AthenaGlider:Glider_ID_365_RumbleFemale": {
+   "templateId": "AthenaGlider:Glider_ID_365_RumbleFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-26T13:59:49Z",
+    "favorite": false,
+    "name": "Kayari buta"
+   },
+   "quantity": 1
+  },
   "AthenaGlider:Glider_MiG": {
    "templateId": "AthenaGlider:Glider_MiG",
    "attributes": {
@@ -77655,6 +78540,96 @@
    },
    "quantity": 1
   },
+  "AthenaLoadingScreen:LSID_426_BusJump": {
+   "templateId": "AthenaLoadingScreen:LSID_426_BusJump",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Terminus !"
+   },
+   "quantity": 1
+  },
+  "AthenaLoadingScreen:LSID_427_FNCSDrops": {
+   "templateId": "AthenaLoadingScreen:LSID_427_FNCSDrops",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Dévastation en duo"
+   },
+   "quantity": 1
+  },
+  "AthenaLoadingScreen:LSID_428_Lyrical": {
+   "templateId": "AthenaLoadingScreen:LSID_428_Lyrical",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Style Wu-Tang"
+   },
+   "quantity": 1
+  },
+  "AthenaLoadingScreen:LSID_429_Rumble": {
+   "templateId": "AthenaLoadingScreen:LSID_429_Rumble",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-26T13:59:49Z",
+    "favorite": false,
+    "name": "Niveau bonus"
+   },
+   "quantity": 1
+  },
+  "AthenaLoadingScreen:LSID_430_ForsakeBeginning": {
+   "templateId": "AthenaLoadingScreen:LSID_430_ForsakeBeginning",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-27T15:58:49Z",
+    "favorite": false,
+    "name": "Une nouvelle combattante"
+   },
+   "quantity": 1
+  },
+  "AthenaLoadingScreen:LSID_431_Cactus": {
+   "templateId": "AthenaLoadingScreen:LSID_431_Cactus",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-22T00:00:00Z",
+    "favorite": false,
+    "name": "Entrez dans le Coachellaverse"
+   },
+   "quantity": 1
+  },
   "AthenaLoadingScreen:LSID_DefaultBG": {
    "templateId": "AthenaLoadingScreen:LSID_DefaultBG",
    "attributes": {
@@ -79647,6 +80622,21 @@
     "creation_time": "2022-03-20T14:09:41Z",
     "favorite": false,
     "name": "Mission muscu"
+   },
+   "quantity": 1
+  },
+  "AthenaMusicPack:MusicPack_131_MC": {
+   "templateId": "AthenaMusicPack:MusicPack_131_MC",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-29T00:00:00Z",
+    "favorite": false,
+    "name": "Tiens bon"
    },
    "quantity": 1
   },
@@ -93262,6 +94252,36 @@
    },
    "quantity": 1
   },
+  "AthenaPickaxe:Pickaxe_ID_777_CactusRockerFemale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_777_CactusRockerFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-15T00:00:00Z",
+    "favorite": false,
+    "name": "Gratte de festival"
+   },
+   "quantity": 1
+  },
+  "AthenaPickaxe:Pickaxe_ID_778_CactusRockerMale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_778_CactusRockerMale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-15T00:00:00Z",
+    "favorite": false,
+    "name": "Morsurodon"
+   },
+   "quantity": 1
+  },
   "AthenaPickaxe:Pickaxe_ID_779_VampireHunterFemale1H": {
    "templateId": "AthenaPickaxe:Pickaxe_ID_779_VampireHunterFemale1H",
    "attributes": {
@@ -93274,6 +94294,168 @@
     "creation_time": "2022-04-05T08:21:07Z",
     "favorite": false,
     "name": "Lames séléniennes"
+   },
+   "quantity": 1
+  },
+  "AthenaPickaxe:Pickaxe_ID_780_AssassinSledgehammerCamo": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_780_AssassinSledgehammerCamo",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Marteau secret"
+   },
+   "quantity": 1
+  },
+  "AthenaPickaxe:Pickaxe_ID_782_CactusDancerFemale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_782_CactusDancerFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-22T00:00:00Z",
+    "favorite": false,
+    "name": "Cactogourdin"
+   },
+   "quantity": 1
+  },
+  "AthenaPickaxe:Pickaxe_ID_783_CactusDancerMale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_783_CactusDancerMale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-22T00:00:00Z",
+    "favorite": false,
+    "name": "Gentil électropalmier"
+   },
+   "quantity": 1
+  },
+  "AthenaPickaxe:Pickaxe_ID_784_CroissantMale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_784_CroissantMale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-21T00:00:00Z",
+    "favorite": false,
+    "name": "Fléchettes en croissant de lune"
+   },
+   "quantity": 1
+  },
+  "AthenaPickaxe:Pickaxe_ID_785_ForsakeFemale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_785_ForsakeFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-27T15:58:49Z",
+    "favorite": false,
+    "name": "Fléau électrique"
+   },
+   "quantity": 1
+  },
+  "AthenaPickaxe:Pickaxe_ID_787_LyricalFemale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_787_LyricalFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Particle",
+      "active": "Particle1",
+      "owned": [
+       "Particle1",
+       "Particle2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Tagueuse triomphale"
+   },
+   "quantity": 1
+  },
+  "AthenaPickaxe:Pickaxe_ID_788_LyricalMale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_788_LyricalMale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Particle",
+      "active": "Particle1",
+      "owned": [
+       "Particle1",
+       "Particle2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Protège-cou"
+   },
+   "quantity": 1
+  },
+  "AthenaPickaxe:Pickaxe_ID_791_RumbleFemale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_791_RumbleFemale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [
+     {
+      "channel": "Mesh",
+      "active": "Stage1",
+      "owned": [
+       "Stage1",
+       "Stage2"
+      ]
+     }
+    ],
+    "creation_time": "2022-04-26T13:59:49Z",
+    "favorite": false,
+    "name": "Trophée du tournoi de combat"
+   },
+   "quantity": 1
+  },
+  "AthenaPickaxe:Pickaxe_ID_792_RumbleMale": {
+   "templateId": "AthenaPickaxe:Pickaxe_ID_792_RumbleMale",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-26T13:59:49Z",
+    "favorite": false,
+    "name": "Brochette danger tropical"
    },
    "quantity": 1
   },
@@ -98632,6 +99814,21 @@
    },
    "quantity": 1
   },
+  "AthenaSpray:SPID_357_SoundwaveSeriesMC": {
+   "templateId": "AthenaSpray:SPID_357_SoundwaveSeriesMC",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Série Onde sonore - Emicida"
+   },
+   "quantity": 1
+  },
   "AthenaSpray:SPID_358_Trey_13D84": {
    "templateId": "AthenaSpray:SPID_358_Trey_13D84",
    "attributes": {
@@ -98959,6 +100156,246 @@
     "creation_time": "2022-04-05T08:21:07Z",
     "favorite": false,
     "name": "Lara dans l'ombre"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_383_FNCSDrops": {
+   "templateId": "AthenaSpray:SPID_383_FNCSDrops",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Couronne stylée"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_384_CuddleKing_Competitive": {
+   "templateId": "AthenaSpray:SPID_384_CuddleKing_Competitive",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Vive les câlins"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_390_SlurpMonster_Competitive": {
+   "templateId": "AthenaSpray:SPID_390_SlurpMonster_Competitive",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Glace Barbote"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_391_Drift_Competitive": {
+   "templateId": "AthenaSpray:SPID_391_Drift_Competitive",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Glace Nomade"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_392_GhoulPopsicles_Competitive": {
+   "templateId": "AthenaSpray:SPID_392_GhoulPopsicles_Competitive",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Goule choco-menthe"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_393_Madcubes_CuddleTeam": {
+   "templateId": "AthenaSpray:SPID_393_Madcubes_CuddleTeam",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Cube câlin"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_394_Madcubes_SpookyTeam": {
+   "templateId": "AthenaSpray:SPID_394_Madcubes_SpookyTeam",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Cube frisson"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_395_Madcubes_Doggo": {
+   "templateId": "AthenaSpray:SPID_395_Madcubes_Doggo",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Cube cabot"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_396_Madcubes_ShadowMeowscles": {
+   "templateId": "AthenaSpray:SPID_396_Madcubes_ShadowMeowscles",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Quadricateral"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_397_Madcubes_Meowscles": {
+   "templateId": "AthenaSpray:SPID_397_Madcubes_Meowscles",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Cube miaou"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_398_Madcubes_Guff": {
+   "templateId": "AthenaSpray:SPID_398_Madcubes_Guff",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Cube cotonneux"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_399_Vehicle_Raptor": {
+   "templateId": "AthenaSpray:SPID_399_Vehicle_Raptor",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Virée en chariot"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_400_Vehicle_Jade": {
+   "templateId": "AthenaSpray:SPID_400_Vehicle_Jade",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Section quad"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_401_Vehicle_Rainbow": {
+   "templateId": "AthenaSpray:SPID_401_Vehicle_Rainbow",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "P'tite Whiplash"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_402_Lyrical_Name": {
+   "templateId": "AthenaSpray:SPID_402_Lyrical_Name",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Tag Wu"
+   },
+   "quantity": 1
+  },
+  "AthenaSpray:SPID_403_Lyrical_BoomBox": {
+   "templateId": "AthenaSpray:SPID_403_Lyrical_BoomBox",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Radiocassette Wu"
    },
    "quantity": 1
   },
@@ -108202,6 +109639,21 @@
    },
    "quantity": 1
   },
+  "AthenaItemWrap:Wrap_460_CactusRocker_92JZ7": {
+   "templateId": "AthenaItemWrap:Wrap_460_CactusRocker_92JZ7",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-15T00:00:00Z",
+    "favorite": false,
+    "name": "Profilodon"
+   },
+   "quantity": 1
+  },
   "AthenaItemWrap:Wrap_461_GnomeCandle": {
    "templateId": "AthenaItemWrap:Wrap_461_GnomeCandle",
    "attributes": {
@@ -108247,6 +109699,66 @@
    },
    "quantity": 1
   },
+  "AthenaItemWrap:Wrap_465_Lyrical": {
+   "templateId": "AthenaItemWrap:Wrap_465_Lyrical",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-21T14:03:51Z",
+    "favorite": false,
+    "name": "Wuvêtement"
+   },
+   "quantity": 1
+  },
+  "AthenaItemWrap:Wrap_466_CactusDancer_A": {
+   "templateId": "AthenaItemWrap:Wrap_466_CactusDancer_A",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-22T00:00:00Z",
+    "favorite": false,
+    "name": "Scène principale"
+   },
+   "quantity": 1
+  },
+  "AthenaItemWrap:Wrap_468_StainedGlass": {
+   "templateId": "AthenaItemWrap:Wrap_468_StainedGlass",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Verre doré"
+   },
+   "quantity": 1
+  },
+  "AthenaItemWrap:Wrap_469_Trainer": {
+   "templateId": "AthenaItemWrap:Wrap_469_Trainer",
+   "attributes": {
+    "max_level_bonus": 99999,
+    "level": 9999,
+    "item_seen": true,
+    "rnd_sel_cnt": 0,
+    "xp": 9999,
+    "variants": [],
+    "creation_time": "2022-04-19T08:34:57Z",
+    "favorite": false,
+    "name": "Baskets"
+   },
+   "quantity": 1
+  },
   "AthenaItemWrap:Wrap_CatBurglarGameplay": {
    "templateId": "AthenaItemWrap:Wrap_CatBurglarGameplay",
    "attributes": {
@@ -108289,8 +109801,8 @@
    "mfa_reward_claimed": true,
    "quest_manager": {},
    "book_level": 100,
-   "season_num": 19,
-   "season_update": 19,
+   "season_num": 20,
+   "season_update": 20,
    "book_xp": 0,
    "permissions": [],
    "book_purchased": false,
